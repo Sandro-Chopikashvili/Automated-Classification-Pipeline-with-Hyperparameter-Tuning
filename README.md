@@ -1,4 +1,4 @@
-# Automated Classification Pipeline with Hyperparameter Tuning
+# Automated Binary Classification Pipeline with Hyperparameter Tuning
 
 This project contains a Python function to build, tune, and evaluate classification models automatically on any tabular dataset.
 
